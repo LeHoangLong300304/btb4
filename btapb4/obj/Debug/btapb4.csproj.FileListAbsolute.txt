@@ -1,0 +1,11 @@
+C:\Users\lel59\source\repos\btapb4\btapb4\obj\Debug\btapb4.csproj.AssemblyReference.cache
+C:\Users\lel59\source\repos\btapb4\btapb4\obj\Debug\btapb4.Form1.resources
+C:\Users\lel59\source\repos\btapb4\btapb4\obj\Debug\btapb4.Form2.resources
+C:\Users\lel59\source\repos\btapb4\btapb4\obj\Debug\btapb4.Properties.Resources.resources
+C:\Users\lel59\source\repos\btapb4\btapb4\obj\Debug\btapb4.csproj.GenerateResource.cache
+C:\Users\lel59\source\repos\btapb4\btapb4\obj\Debug\btapb4.csproj.CoreCompileInputs.cache
+C:\Users\lel59\source\repos\btapb4\btapb4\bin\Debug\btapb4.exe.config
+C:\Users\lel59\source\repos\btapb4\btapb4\bin\Debug\btapb4.exe
+C:\Users\lel59\source\repos\btapb4\btapb4\bin\Debug\btapb4.pdb
+C:\Users\lel59\source\repos\btapb4\btapb4\obj\Debug\btapb4.exe
+C:\Users\lel59\source\repos\btapb4\btapb4\obj\Debug\btapb4.pdb
